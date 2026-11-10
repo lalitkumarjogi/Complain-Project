@@ -1,3 +1,6 @@
+<img width="7905" height="5308" alt="diagram (1)" src="https://github.com/user-attachments/assets/d1a78418-c4fe-4dc1-96e1-5ecf8f516be5" />
+
+
 ┌────────────────────────┐
 │   Customer / Client    │
 └───────────┬────────────┘
